@@ -12,7 +12,7 @@ biology = int(input("6.enter your biology mark is:"))
 print("")
 print("")
 print("------------------------------------------")
-print("                +2,RESULTS               ")
+print("                +2,RESULTS hii             ")
 print("------------------------------------------")
 print("")
 if tamil >=35 and tamil <=100:
